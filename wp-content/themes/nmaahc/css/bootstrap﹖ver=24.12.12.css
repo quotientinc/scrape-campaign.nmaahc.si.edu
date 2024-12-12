@@ -3623,14 +3623,14 @@ ul#primary-menu > li:hover > a, ul#primary-menu > li:focus > a, ul#primary-menu 
   color: #cb8b33;
 }
 ul#primary-menu > li:hover > a:after, ul#primary-menu > li:focus > a:after, ul#primary-menu > li:focus-within > a:after {
-  background-image: url(/wp-content/themes/nmaahc/images/chevron-up.svg) !important;
+  background-image: url(../images/chevron-up.svg) !important;
 }
 ul#primary-menu > li:hover > a:before, ul#primary-menu > li:focus > a:before, ul#primary-menu > li:focus-within > a:before {
   opacity: 1;
 }
 ul#primary-menu > li.menu-item-has-children > a:after {
   content: "";
-  background-image: url(/wp-content/themes/nmaahc/images/chevron-down.svg);
+  background-image: url(../images/chevron-down.svg);
   background-repeat: no-repeat;
   background-position: center;
   height: 20px;
@@ -3930,7 +3930,7 @@ ul#primary-menu > li > ul li a:focus {
   font-family: acumin-pro-extra-condensed, sans-serif;
   font-weight: 600;
   font-style: normal;
-  background-image: url(/wp-content/themes/nmaahc/images/stat-wedge.svg), linear-gradient(#cb8b33, #000000);
+  background-image: url(../images/stat-wedge.svg), linear-gradient(#cb8b33, #000000);
   background-position: right top, left top;
   background-size: 20% 100%, cover;
   background-repeat: no-repeat;
@@ -4201,7 +4201,7 @@ ul#primary-menu > li > ul li a:focus {
   display: block;
 }
 #riff .arrow-down {
-  background-image: url(/wp-content/themes/nmaahc/images/arrow-down.svg);
+  background-image: url(../images/arrow-down.svg);
   background-size: auto;
   background-repeat: no-repeat;
   background-position: center;
@@ -4298,7 +4298,7 @@ a.signup-footer-link:hover, a.signup-footer-link:focus {
   appearance: none;
   background-color: #000000;
   color: transparent;
-  background-image: url(/wp-content/themes/nmaahc/images/submit-button-arrow.svg);
+  background-image: url(../images/submit-button-arrow.svg);
   background-size: auto;
   background-repeat: no-repeat;
   background-position: center;
@@ -4552,7 +4552,7 @@ body.page-template-event-invitation .wp-block-buttons {
 }
 .is-style-event-invite-learn-more a:after {
   content: "";
-  background-image: url(/wp-content/themes/nmaahc/images/arrow-yellow.svg);
+  background-image: url(../images/arrow-yellow.svg);
   width: 23px;
   height: 23px;
   display: inline-block;
@@ -5183,7 +5183,7 @@ body.page-template-event-invitation .wp-block-buttons {
 }
 .celebration-sticky__button a:after {
   content: "";
-  background-image: url(/wp-content/themes/nmaahc/images/arrow.svg);
+  background-image: url(../images/arrow.svg);
   width: 23px;
   height: 23px;
   display: inline-block;
@@ -5939,7 +5939,7 @@ body.page-template-garden-landing .gardenlp__logo {
   display: block;
   width: 160px;
   height: 48px;
-  background-image: url(/wp-content/themes/nmaahc/images/logo-black-gardenlp.svg);
+  background-image: url(../images/logo-black-gardenlp.svg);
   background-size: contain;
   background-repeat: no-repeat;
   position: absolute;
@@ -6537,7 +6537,7 @@ body.page-template-garden-landing .gardenlpfoot__section .gardenlpfoot__picture 
 }
 .large-accordian-style .wp-block-button {
   display: block;
-  background-image: url(/wp-content/themes/nmaahc/images/chevron.svg);
+  background-image: url(../images/chevron.svg);
   background-repeat: no-repeat;
   background-position: center right;
   background-size: 14px 26px;
